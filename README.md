@@ -1,2 +1,2 @@
-# bunglemirror.github.io.github.io
+# bunglemirror.github.io
 A mirror of the youtube archive of live gigs of Mike Patton's musical projects Faith No More, Mr. Bungle, Fantomas: https://www.youtube.com/user/arstyfairie08 The youtube account owner is deceased and the account is hacked and at risk for deletion. A post was made to the subreddit "Data Hoarder" asking for help to find a new home for the videos. I used JDownloader to parse and download the videos, uploaded them to the free video sharing service Doodstream, and made this simple static page, If I have time I may add some search functions and other features but I was simply helping someone out. 
